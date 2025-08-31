@@ -20,17 +20,4 @@ This app supports striking completed tasks, task history, and full **CRUD (Creat
 - **Tailwind CSS**
 
 ---
-react-dp/
-├── public/
-│   └── index.html
-├── src/
-│   ├── components/
-│   │   ├── TodoItem.jsx       # Displays individual task
-│   │   ├── TodoList.jsx       # Renders the list of tasks
-│   │   ├── AddTodo.jsx        # Input form to add tasks
-│   │   └── TaskHistory.jsx    # Displays completed tasks
-│   ├── App.jsx                # Main app component
-│   ├── index.js               # React entry point
-│   └── styles.css             # Tailwind/custom styles
-├── package.json
-└── README.md
+
